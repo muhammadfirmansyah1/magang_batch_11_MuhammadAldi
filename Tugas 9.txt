@@ -1,0 +1,6 @@
+1. Apa yang dimaksud branching pada git?
+	jawaban: membuat cabang dari repositori utama dan melanjutkan melakukan pekerjaan pada cabang yang baru tersebut tanpa perlu khawatir mengacaukan cabang awal/ yang utama.
+2. Kenapa jika kita kolaborasi dengan orang lain harus menggunakan branch yang berbeda atau tidak di branch master?
+	jawaban: agar repository original kita tidak tercampur dengan kontribusi tim lain dan apabila terjadi kesalahan, repository awal tetap ada.
+3. Kesan magang di Javan?
+	jawaban: magang di Javan belum berkesan karena belum lama (masih 1 mingguan)
